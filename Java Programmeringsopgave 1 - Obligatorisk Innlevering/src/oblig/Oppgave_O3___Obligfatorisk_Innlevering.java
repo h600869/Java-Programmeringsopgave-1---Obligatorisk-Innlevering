@@ -24,4 +24,4 @@ public class Oppgave_O3___Obligfatorisk_Innlevering {
 		}
 		System.out.println("Fakultet av " + tall + " er " + fact);
 	}
-}
+ }
